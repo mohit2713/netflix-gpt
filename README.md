@@ -1,10 +1,14 @@
 # netflix-gpt
 
 # Setup:-
-1. Create-react-app netflix-gpt
-2. install tailwind css
-3. 
-
+- Create-react-app netflix-gpt
+- install tailwind css
+- Header
+- Routing
+- Login Form
+- Sign up Form
+- form validation
+- useRef hook ("React Hook that lets you reference a value that’s not needed for rendering")
 
 # Features
 -Login/signup page (Before authentication)
@@ -22,3 +26,8 @@
 -NetflixGpt
     -Search Bar
     -Movie Suggestions
+
+
+
+## New Learning:-
+- Formik :- Build form in react without tears.
