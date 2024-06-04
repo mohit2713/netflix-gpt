@@ -9,6 +9,14 @@
 - Sign up Form
 - form validation
 - useRef hook ("React Hook that lets you reference a value that’s not needed for rendering")
+-Firebase setup
+-Deploying our app to production
+-create signup user account
+-Implimint SignIn user API
+-created redux Store with userSlice
+-Implimented SignOut
+-Update user profile 
+- Fetch Movies from TMDB Movies
 
 # Features
 -Login/signup page (Before authentication)
